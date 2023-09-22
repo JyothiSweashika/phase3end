@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "Ck1kQWXsl2+PIHI7O70H39rJUoDCjE3mK/toOLCRKRhUH9xTLQu5w/7WSj8e9bclDp/Q/6LqSQ1DTM05oUwFMg==",
+  "success": true,
+  "projectFilePath": "D:\\phase3\\phase-end\\Phaseend\\Phaseend\\Phaseend.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\91849\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.19.4\\microsoft.visualstudio.azure.containers.tools.targets.1.19.4.nupkg.sha512"
+  ],
+  "logs": []
+}
